@@ -1,0 +1,11 @@
+O código da vinci,78,56,Dan Brown,10705352
+O leão a feiticeira e o guarda-roupas,56,67,C.S. Lewis,19116700
+O sonho da câmara vermelha,67,34,Cao Xueqin,14528692
+O caso dos dez negrinhos,13,45,Agatha Christie,15675694
+O hobbit,78,4,J.R.R. Tolkien,9176016
+Harry potter e a pedra filosofal,23,24,J.K. Rowling,17587364
+O pequeno príncipe,65,8,Antoine de Saint-Exupéry,16822696
+O alquimista,12,2,Paulo Coelho,9940684
+Um conto de duas cidades,89,10,Charles Dickens,15675694
+Dom quixote,200,16,Miguel de Cervantes,12617022
+O senhor dos anéis ,45,78,J.R.R. Tolkien,13764024
